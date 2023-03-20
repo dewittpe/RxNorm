@@ -1,0 +1,23 @@
+Package: RxNorm
+Title: RxNorm API
+Version: 0.0.0.9000
+Authors@R: c(
+    person(
+        given = "Peter"
+      , family = "DeWitt"
+      , email = "peter.dewitt@cuanschutz.edu"
+      , role = c("aut", "cre")
+      , comment = c(ORCID = "0000-0002-6391-0795")
+      )
+    )
+Description: A
+Depends:
+    R (>= 3.5.0)
+License: GPL-2
+Encoding: UTF-8
+URL: https://github.com/dewittpe/RxNorm/
+Language: en-us
+LazyData: true
+Imports:
+Suggests:
+VignetteBuilder: knitr
